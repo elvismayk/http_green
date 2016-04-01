@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+	html {
+		background-color: #333;
+	}
+	body {
+		background-color:#EDFAFF;
+		width: 750px;
+		margin: 0 auto;
+	}
+	h1 {
+		color: red;
+		
+	}
+	p {
+		font-family: "Arial";
+		font-size: 12px;
+		margin-left: 50px;
+		<!background-color: yellow;>
+	}
+	div {
+		background-color: lightblue;
+	}
+	div2{
+		background-color: green;
+	}
+	sig {
+		color: blue;
+		font-family: "Times New Roman";
+		font-size: 10px;
+		margin-left: 10px;
+		background-color: lightblue;
+		
+	}
+	
+
+</style>
+</head>
+
+</html>
